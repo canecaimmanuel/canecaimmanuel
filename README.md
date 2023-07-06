@@ -1,4 +1,4 @@
-[![MasterHead](https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)]
+![MasterHead](https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)
 <h1 align="center">Hi 👋, I'm Immanuel L. Cañeca</h1>
 <h3 align="center">A passionate Software Web Developer from Bulacan, Philippines.</h3>
 <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)" alt="Coding" width="200" align="right">
